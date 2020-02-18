@@ -23,6 +23,10 @@ Included in this repository is a branch per feature added. The following branche
 
 This example site can be seen live at [https://determined-poitras-cc2fcb.netlify.com/](https://determined-poitras-cc2fcb.netlify.com/).
 
+## 🎞 Webinar Slide Deck
+
+A short slide deck explaining the value of MDX used in conjunction with the webinar was prepared on Google Slides, it is [freely available](https://docs.google.com/presentation/d/1uOD90C5b8JXxTh1U9wGBQRI5GVBqmLB2o0F2uJ0kAPQ/edit?usp=sharing) and encouraged to be used and extended for your own presentations.
+
 ## 🔧 Running locally
 
 The site can be run locally on your own computer as well.
