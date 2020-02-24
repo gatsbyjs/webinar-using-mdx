@@ -27,6 +27,14 @@ This example site can be seen live at [https://determined-poitras-cc2fcb.netlify
 
 A short slide deck explaining the value of MDX used in conjunction with the webinar was prepared on Google Slides, it is [freely available](https://docs.google.com/presentation/d/1uOD90C5b8JXxTh1U9wGBQRI5GVBqmLB2o0F2uJ0kAPQ/edit?usp=sharing) and encouraged to be used and extended for your own presentations.
 
+## 📼 Egghead Screencasts
+
+A few short Egghead screencasts were recorded to cover similar content in a shorter, more quickly digestable format. You can watch them (and other videos covering MDX concepts) in [this collection on Using components in MDX](https://egghead.io/playlists/using-components-in-markdown-with-mdx-5de0?af=2p1zw).
+
+## 💾 Recording on YouTube
+
+The webinar was recorded and can be watched [on YouTube](https://www.youtube.com/watch?v=XyJgp3G8HyY).
+
 ## 🔧 Running locally
 
 The site can be run locally on your own computer as well.
